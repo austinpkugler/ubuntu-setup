@@ -1,0 +1,5 @@
+Launch terminal				Super+T
+Launch web browser				Super+F
+Home folder					Super+E
+Copy a screenshot of an area to clipboard	Shift+Super+S
+Copy a screenshot of a window to clipboard	Shift+Super+W

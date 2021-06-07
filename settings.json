@@ -1,0 +1,17 @@
+{
+    "editor.rulers": [72, 79, 99],
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "explorer.openEditors.visible": 0,
+    "workbench.startupEditor": "none",
+    "workbench.panel.defaultLocation": "right",
+    "workbench.settings.editor": "json",
+    "workbench.editor.enablePreview": false,
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#424242"
+    },
+    "workbench.colorTheme": "Monokai"
+}
