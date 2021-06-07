@@ -8,6 +8,7 @@ sudo snap install spotify
 sudo snap install keepassxc
 sudo snap install slack --classic
 sudo snap install libreoffice
+sudo snap install vlc
 wget https://zoom.us/client/latest/zoom_amd64.deb
 sudo apt install ./zoom_amd64.deb
 
