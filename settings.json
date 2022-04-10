@@ -1,10 +1,15 @@
 {
-    "editor.rulers": [72, 79, 99],
+    "editor.rulers": [
+        72,
+        79,
+        100
+    ],
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "boundary",
-    "editor.tabSize": 4,
-    "editor.detectIndentation": false,
-    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.fontSize": 16,
+    "editor.detectIndentation": true,
+    "editor.formatOnSave": false,
     "explorer.openEditors.visible": 0,
     "workbench.startupEditor": "none",
     "workbench.panel.defaultLocation": "right",
@@ -13,5 +18,9 @@
     "workbench.colorCustomizations": {
         "editorRuler.foreground": "#424242"
     },
-    "workbench.colorTheme": "Monokai"
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+    "editor.codeLens": false,
+    "workbench.colorTheme": "Monokai",
+    "terminal.integrated.fontSize": 16
 }
