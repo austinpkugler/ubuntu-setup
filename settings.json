@@ -6,8 +6,8 @@
     ],
     "editor.minimap.enabled": false,
     "editor.renderWhitespace": "boundary",
-    "editor.tabSize": 2,
-    "editor.fontSize": 16,
+    "editor.tabSize": 4,
+    "editor.fontSize": 14,
     "editor.detectIndentation": true,
     "editor.formatOnSave": false,
     "explorer.openEditors.visible": 0,
@@ -22,5 +22,6 @@
     "explorer.confirmDragAndDrop": false,
     "editor.codeLens": false,
     "workbench.colorTheme": "Monokai",
-    "terminal.integrated.fontSize": 16
+    "terminal.integrated.fontSize": 14,
+    "window.zoomLevel": 1
 }
